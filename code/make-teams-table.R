@@ -1,7 +1,7 @@
-title: "Make Teams Table"
-description: "Prepare the data to be computed"
-input: 'nba2018.csv'
-output: 'efficiency-summary.txt', 'teams-summary.txt', 'nba2018-teams.csv'
+#title: "Make Teams Table"
+#description: "Prepare the data to be computed"
+#input: 'nba2018.csv'
+#outputs: 'efficiency-summary.txt', 'teams-summary.txt', 'nba2018-teams.csv'
 
 library(tidyverse)
 
