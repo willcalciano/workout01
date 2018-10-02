@@ -1,8 +1,9 @@
 ## Data Dictionary for nba2018.csv
 
+* This data contains all the stats from the 2017-2018 season for 477 NBA players, there are 38 different columns which display 38 different statistics measured
 * [Main Data Source](https://www.basketball-reference.com/)
 * [GSW Data Source as an example](https://www.basketball-reference.com/teams/GSW/2018.html)
-* Units given in description
+* Units of measurement given in description
 * All missing values in table left as blanks
 * Here is a table which describes all statistics of the data:
 
