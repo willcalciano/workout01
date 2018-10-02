@@ -1,7 +1,7 @@
 ## Data Dictionary for nba2018.csv
 
 * [Main Data Source](https://www.basketball-reference.com/)
-* [GSW Data Source as an example](https://www.basketball-reference.com/GSW/2018.html)
+* [GSW Data Source as an example](https://www.basketball-reference.com/teams/GSW/2018.html)
 * Units given in description
 * All missing values in table left as blanks
 * Here is a table which describes all statistics of the data:
