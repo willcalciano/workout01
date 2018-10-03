@@ -3,7 +3,7 @@
 #input: 'nba2018.csv'
 #outputs: 'efficiency-summary.txt', 'teams-summary.txt', 'nba2018-teams.csv'
 
-### Importing and Editing Data
+# Importing and Editing Data
 library(tidyverse)
 
 #use read_csv to load the data into R
@@ -34,7 +34,7 @@ summary(data$efficiency)
 sink()
 
 
-### Creating nba2018-teams.csv
+# Creating nba2018-teams.csv
 
 #create teams data frame with columns equal to the sums of statistics for whole teams
 teams <- data.frame(
